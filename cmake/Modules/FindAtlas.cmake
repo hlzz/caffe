@@ -18,6 +18,7 @@ set(Atlas_INCLUDE_SEARCH_PATHS
 
 set(Atlas_LIB_SEARCH_PATHS
   /usr/lib/atlas
+  /usr/lib64/atlas
   /usr/lib/atlas-base
   $ENV{Atlas_ROOT_DIR}
   $ENV{Atlas_ROOT_DIR}/lib
